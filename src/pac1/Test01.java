@@ -6,7 +6,7 @@ public class Test01 {
 		System.out.println("덧셈 : "+(3+7));
 		System.out.println("뺄셈 : "+(3-2));
 		System.out.println("곱셈 : "+(3*4));
-		System.out.println(" : "+(6/2));
+		System.out.println("나눗셈 : "+(6/2));
 		
 
 	}
