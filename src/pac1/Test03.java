@@ -8,10 +8,13 @@ public class Test03 {
 		Scanner scan=new Scanner(System.in);
 		System.out.print("첫번째 값 입력 : ");
 		int first=scan.nextInt();
-		System.out.print("두번째 값 입력 : ");
-		int second=scan.nextInt();
+
 		System.out.print("연산자 입력 : ");
 		String symbol=scan.next();
+		
+		System.out.print("두번째 값 입력 : ");
+		int second=scan.nextInt();
+		
 		if(symbol.equals("+")) {
 			System.out.println("덧셈 : "+(first+second));
 		}else if(symbol.equals("-")) {
