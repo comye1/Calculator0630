@@ -3,10 +3,10 @@ package pac1;
 public class Test01 {
 
 	public static void main(String[] args) {
-		System.out.println("µ¡¼À : "+(3+7));
-		System.out.println("»¬¼À : "+(3-2));
-		System.out.println("°ö¼À : "+(3*4));
-		System.out.println("³ª´°¼À : "+(6/2));
+		System.out.println("ë§ì…ˆ : "+(3+7));
+		System.out.println("ëº„ì…ˆ : "+(3-2));
+		System.out.println("ê³±ì…ˆ : "+(3*4));
+		System.out.println("ë‚˜ëˆ—ì…ˆ : "+(6/2));
 		
 
 	}
